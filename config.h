@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "FiraCode Nerd Font:style=Retina:pixelsize=18:antialias=true:autohint=true";
+static char *font = "FiraCode Nerd Font:style=Retina:pixelsize=16:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
@@ -103,14 +103,14 @@ static const char *colorname[] = {
   "#ba8baf", /* base0E */
   "#86c1b9", /* base0C */
   "#d8d8d8", /* base05 */
-  "#181818", /* base00 */
+  "#585858", /* base00 */
   "#ab4642", /* base08 */
   "#a1b56c", /* base0B */
   "#f7ca88", /* base0A */
   "#7cafc2", /* base0D */
   "#ba8baf", /* base0E */
   "#86c1b9", /* base0C */
-  "#d8d8d8", /* base05 */
+  "#f8f8f8", /* base05 */
 };
 
 unsigned int defaultfg = 7;
